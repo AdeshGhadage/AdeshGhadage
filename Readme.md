@@ -3,7 +3,7 @@
 ## About Me
 
 - My name is Adesh Ghadage.
-- I am a fourth year Undergraduate student at IIT Kharagpur, India.
+- I am a final year Undergraduate student at IIT Kharagpur, India.
 - For more details [Read my resume](https://drive.google.com/file/d/1-TQi4w6FlJqtHLTloh4k9C3yKGN8xhYm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
