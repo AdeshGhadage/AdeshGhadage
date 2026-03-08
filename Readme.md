@@ -2,9 +2,13 @@
 
 ## About Me
 
-- My name is Adesh Ghadage.
-- I am a final year Undergraduate student at IIT Kharagpur, India.
-- For more details [Read my resume](https://drive.google.com/file/d/1xYmzl7D0BjTHocn0G03Kb73q0lEmIWUw/view?usp=sharing)
+Hi, I'm Adesh Ghadage, a final-year Dual Degree student at IIT Kharagpur graduating in April 2026. My academic background is in Ocean Engineering, but my main interest lies in software engineering, backend systems, and distributed infrastructure.
+
+I enjoy building scalable systems, experimenting with cloud-native technologies, and understanding how large systems work internally. I'm particularly interested in distributed systems, system design, and backend architecture.
+
+I'm always excited to learn, build, and contribute to open-source projects.
+
+For more details, [check out my resume](https://drive.google.com/file/d/1xYmzl7D0BjTHocn0G03Kb73q0lEmIWUw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
