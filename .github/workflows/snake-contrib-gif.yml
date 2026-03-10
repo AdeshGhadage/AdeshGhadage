@@ -10,7 +10,7 @@ on:
     - [main, master] # Trigger on push to main or master branch
   
 permissions:
-contents: write
+  contents: write
 
 jobs:
   snake:
