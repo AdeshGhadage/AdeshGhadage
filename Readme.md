@@ -104,7 +104,7 @@ For more details, [check out my resume](https://drive.google.com/file/d/1xYmzl7D
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/milinddethe15/milinddethe15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/AdeshGhadage/AdeshGhadage/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </div>
 
 ---
