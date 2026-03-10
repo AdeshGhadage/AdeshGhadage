@@ -9,9 +9,9 @@ on:
     branches:
     - [main, master] # Trigger on push to main or master branch
   
-  permissions:
-  contents: write
-  
+permissions:
+contents: write
+
 jobs:
   snake:
     runs-on: ubuntu-latest
