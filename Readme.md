@@ -27,8 +27,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm **Adesh Ghadage**, a final-year Dual Degree student at **IIT Kharagpur** graduating in April 2026.  
-My academic background is in Ocean Engineering, but my main interest lies in **software engineering, backend systems, and distributed infrastructure**.
+Hi, I'm **Adesh Ghadage**, I recently graduated from **IIT Kharagpur** with a Dual Degree in Ocean Engineering and Naval Architecture (Class of 2026). While my academic background is in Naval Architecture, my true passion lies in software development and building large-scale, impactful products.
 
 I enjoy building scalable systems, experimenting with **cloud-native technologies**, and understanding how large systems work internally. I'm particularly interested in **distributed systems, system design, and backend architecture**.
 
